@@ -1,2 +1,1 @@
-# lab2
-ITMD-361 Lab 2
+This is a lab containing a singular index.html file that demonstrates knowledge on the proper uses of html tags such as headings, paragraphs, and lists. Done For ITMD-361 Lab 2 Week 2.
